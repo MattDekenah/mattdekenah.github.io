@@ -1,11 +1,11 @@
-production_url: http://nglenday.github.io
+production_url: http://mattdekenah.github.io
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nicola-and-carl.com" # the base hostname & protocol for your site
+url: "http://party.dekenah.com" # the base hostname & protocol for your site
 
 # Site settings
-title: Nicola and Carl
+title: Five Dekenahs and a Jennings
 email: 
-description: "Details for Nicola Glenday and Carl Scheffler's wedding on the 19th March 2016"
+description: "Details for 'Five Dekenahs and Jennings' party on 7 April 2017."
 
 # Color settings (hex-codes without the leading hash-tag)
 
