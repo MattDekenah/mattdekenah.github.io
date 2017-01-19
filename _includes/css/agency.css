@@ -424,10 +424,11 @@ header {
     background-position: 90% 40%;
     background-attachment: scroll;
     background-image: url(img/dekenah-jennings.jpg);
-    background-repeat: none;
+    background-repeat:no-repeat; 
+    background-size:contain; 
+    background-position:center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
 }
 
