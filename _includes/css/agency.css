@@ -41,11 +41,6 @@ a.active {
     outline: 0;
 }
 
-#email a
-{
-    color: #fff;
-}
-
 a {
     color: #{{ site.color.background-dark }};
 }
