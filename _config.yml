@@ -1,11 +1,11 @@
 production_url: http://mattdekenah.github.io
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://party.dekenah.com" # the base hostname & protocol for your site
+url: "http://mattdekenah.com" # the base hostname & protocol for your site
 
 # Site settings
-title: Five Dekenahs and a Jennings
+title: Matthew Dekenah - A South African in Scotland
 email: 
-description: "Details for 'Five Dekenahs and Jennings' party on 7 April 2017."
+description: "South African born software test engineer, politicist, linguist and activist with interests in technology, languages, politics and running."
 
 # Color settings (hex-codes without the leading hash-tag)
 
